@@ -109,19 +109,6 @@ The analysis helps identify:
 * Category-level performance
 * Inventory replenishment priorities
 
-## 📷 Power BI Dashboard
-
-### Page 1 — Business Overview
-
-![Page 1](PowerBI/Dashboard_Screenshots/page1_overview.png)
-
-### Page 2 — Pricing & Inventory
-
-![Page 2](PowerBI/Dashboard_Screenshots/page2_pricing_inventory.png)
-
-### Page 3 — Category Analysis
-
-![Page 3](PowerBI/Dashboard_Screenshots/page3_category_analysis.png)
 
 ## 📁 Project Structure
 
@@ -142,19 +129,6 @@ Data/
 Documentation/
 └── Project_Insights.pdf
 ```
-
-## 👨‍💻 Skills Demonstrated
-
-* SQL Data Analysis
-* Data Cleaning
-* Data Transformation
-* Exploratory Data Analysis
-* Business Intelligence
-* Power BI Dashboard Development
-* DAX
-* Power Query
-* Data Visualization
-* Business Insights
 
 ## 🚀 Project Outcome
 
